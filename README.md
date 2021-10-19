@@ -2,3 +2,4 @@
 Lista de Integrantes:
   Franco Nardella.
   Nicolas Rodriguez
+  Fernanda Balasch
